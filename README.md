@@ -6,7 +6,7 @@ requirement for data scientists to hold any specific qualification or industry
 membership. There is rising awareness of the harmful power of data, and a number 
 voluntary codes of conduct have been developed.
 
-![slides.jpg](/Users/davidbird/codeclan_work/data_ethics/data-ethics-presentation/images/slides.jpg)
+![slides.jpg](https://github.com/daviddbird/data-ethics-presentation/blob/master/images/slides.jpg)
 
 As part of [CodeClan's](https://codeclan.com) Data Analysis course in Edinburgh, 
 I was asked to consider how data scientists should be accredited and if a code 
